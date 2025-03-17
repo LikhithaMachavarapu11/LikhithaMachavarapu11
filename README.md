@@ -18,7 +18,7 @@ Hey there! I'm **Likhitha Machavarapu**, a **graduate with specialisation of Com
 - It is a user-friendly website .
 - Features include ****, and more.
 - Built using **HTML, CSS (frontend).
-- 🔗 **[Project Link](https://github.com/grishma-gedela/Online-Food-Ordering---Infosys.git)**
+- 🔗 **[Project Link](https://github.com/LikhithaMachavarapu11/Static-Website.git)**
 
 ## 🌍 Tourism Explorer - Responsive Website
 - Get the **Tourism** in one place! No need to browse multiple sites.
