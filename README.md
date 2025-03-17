@@ -23,7 +23,7 @@ Hey there! I'm **Likhitha Machavarapu**, a **graduate with specialisation of Com
 ## 🌍 Tourism Explorer - Responsive Website
 - Get the **Tourism** in one place! No need to browse multiple sites.
 - Built using **Bootstrap, CSS Flexbox**.
-- 🔗 **[Project Link](https://github.com/grishma-gedela/Tech-News.git)**
+- 🔗 **[Project Link](https://github.com/LikhithaMachavarapu11/Responsive-Website.git)**
 
 ---
 ## 📬 Connect with Me:
