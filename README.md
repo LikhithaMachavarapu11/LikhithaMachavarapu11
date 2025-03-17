@@ -16,7 +16,7 @@ Hey there! I'm **Likhitha Machavarapu**, a **graduate with specialisation of Com
 
 ## 🌍 Tourism Explorer - Static Website
 - It is a user-friendly website .
-- Features include ****, and more.
+- Features include **plan trips, explore destinations and book tours**, and more.
 - Built using **HTML, CSS (frontend).
 - 🔗 **[Project Link](https://github.com/LikhithaMachavarapu11/Static-Website.git)**
 
