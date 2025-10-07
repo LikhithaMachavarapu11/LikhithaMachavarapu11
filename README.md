@@ -10,6 +10,7 @@ Hey there! I'm **Likhitha Machavarapu**, a **graduate with specialisation of Com
 - **📚 Frameworks/Libraries:** Bootstrap    
 - **🛠️ Developer Tools:** Git/GitHub, VS Code 
 - **🎯 Interests:** Problem-Solving
+- **Testing:** Automation Testing with Selenium
 
 ---
 ## 🏆 Projects:
