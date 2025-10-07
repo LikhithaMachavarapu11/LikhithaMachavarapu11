@@ -1,7 +1,8 @@
 # 👋 Hi, I'm **Likhitha Machavarapu**
 
 ## 📌 About Me
-Hey there! I'm **Likhitha Machavarapu**, a **graduate with specialisation of Computer Science & Engineering** at Sri Mittapalli Institute Of Technology for Women with a passion for **coding**. This README is my playground to showcase my journey, skills, and aspirations. Let's dive in!
+Hi! I'm **Likhitha Machavarapu**, a passionate **QA Automation Tester** and **Computer Science Engineering graduate** from Sri Mittapalli Institute Of Technology for Women.
+I am currently pursuing **Industry Ready Certification in Automation Testing** from **Nxtwave Disruptive Technologies**, where I'm getting hands-on experience in testing real-time web applications using **Selenium WebDriver and Java**.
 
 ---
 ## 🚀 Skills & Interests:
