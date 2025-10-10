@@ -39,7 +39,8 @@ Validated username display, checked initial balance, and performed multiple deno
 The project ensures smooth transaction flow and error-free automation from start to finish.
 
 - **Tech Stack:** Java · Selenium WebDriver · IntelliJ IDEA · ChromeDriver
-- **Key Skills:** Functional Testing · Data Validation · UI Automation
+- 🔗 **[Project Link](https://github.com/LikhithaMachavarapu11/Cash-Withdrawal-Page-Test)**
+
 
 ---
 
@@ -50,8 +51,8 @@ Created an automation script for a Tip Calculator website that validates the acc
 Handled both valid and invalid inputs, verified alert messages, and ensured consistent calculation results under different scenarios.
 This project strengthens concepts of input validation, web element handling, and end-to-end automation.
 
-- **Tech Stack:** Java · Selenium WebDriver · IntelliJ IDEA · ChromeDriver
-- **Key Skills:** Input Validation · Functional Testing · XPath & CSS Selectors
+- **Tech Stack:** Java , Selenium WebDriver , IntelliJ IDEA , ChromeDriver
+- 🔗 **[Project Link](https://github.com/LikhithaMachavarapu11/Tip-Calculator-Test)**
 
 ---
 
@@ -62,8 +63,8 @@ Developed an automated test for Wikipedia’s search feature using Selenium WebD
 The script enters keywords like “HTML,” verifies that search results are displayed, and counts the total results shown.
 It demonstrates working with dynamic elements, waits, and live website testing.
 
-- **Tech Stack:** Java · Selenium WebDriver · IntelliJ IDEA · ChromeDriver
-- **Key Skills:** Dynamic Web Elements · Explicit Waits · Real-time Testing
+- **Tech Stack:** Java , Selenium WebDriver , IntelliJ IDEA , ChromeDriver
+- 🔗 **[Project Link](https://github.com/LikhithaMachavarapu11/Wikipedia-Search-Test)**
 
 ---
 
