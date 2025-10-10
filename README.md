@@ -7,7 +7,7 @@ I am currently pursuing **Industry Ready Certification in Automation Testing** f
 ---
 ## 🚀 Skills & Interests:
 
-- **💻 Programming Languages:** HTML, CSS, CSS flexbox (basic knowledge)  
+- **💻 Programming Languages:** HTML, CSS, flexbox (basic knowledge)  
 - **📚 Frameworks/Libraries:** Bootstrap    
 - **🛠️ Developer Tools:** Git/GitHub, VS Code 
 - **🎯 Interests:** Problem-Solving
