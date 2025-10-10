@@ -16,13 +16,15 @@ I am currently pursuing **Industry Ready Certification in Automation Testing** f
 ---
 ## 🏆 Mini Projects:
 
-## 🌍 Tourism Explorer - Static Website
+## 🌍 Tourism Explorer 
+
+# 1. Static Website
 - It is a user-friendly website .
 - Features include **plan trips, explore destinations and book tours**, and more.
 - Built using **HTML, CSS (frontend)**.
 - 🔗 **[Project Link](https://github.com/LikhithaMachavarapu11/Static-Website.git)**
 
-## 🌍 Tourism Explorer - Responsive Website
+# 2. Responsive Website
 - Get the **Tourism** in one place! No need to browse multiple sites.
 - Built using **Bootstrap, Flexbox**.
 - 🔗 **[Project Link](https://github.com/LikhithaMachavarapu11/Responsive-Website.git)**
