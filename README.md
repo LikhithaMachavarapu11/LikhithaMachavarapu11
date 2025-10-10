@@ -29,41 +29,44 @@ I am currently pursuing **Industry Ready Certification in Automation Testing** f
 
 ---
 
-##  Cash Withdrawal Page Test
-- In this project, I automated a withdrawal functionality on a cash withdrawal-like platform. Here are the key highlights: 
-- The script initiates a WebDriver instance and navigates to the application's URL. It then locates the username element and verifies it against the expected username, 'Sarah Williams'. 
-- The script also verifies the initial balance amount displayed on the page against the expected balance of 2000. 
-- The automation process includes locating all four denomination buttons and performing two clicks on each button, followed by verification of the balance amount after each click. 
-- The script concludes by closing the browser window. The project demonstrated proficiency in using Selenium WebDriver for web application testing and verification of dynamic data. 
-- Built using **Selenium Webdriver, Java**.
-- 🔗 **[Project Link](https://github.com/LikhithaMachavarapu11/Cash-Withdrawal-Page-Test)**
+# Projects
+
+# 💳 1. Cash Withdrawal Page Test
+
+# Description:
+Automated the testing of a Cash Withdrawal web application using Selenium WebDriver and Java.
+Validated username display, checked initial balance, and performed multiple denomination withdrawals to verify accurate balance updates.
+The project ensures smooth transaction flow and error-free automation from start to finish.
+
+- **Tech Stack:** Java · Selenium WebDriver · IntelliJ IDEA · ChromeDriver
+- **Key Skills:** Functional Testing · Data Validation · UI Automation
 
 ---
 
-##  Tip Calculator Test 
-- In this project, I automated a calculator functionality on a calculator-like platform. Here are the key highlights: 
-- Automated the process of entering the bill amount and tip percentage, and verifying the calculated tip and total amount. 
-- Implemented error handling to check for the presence of appropriate error messages when no input or invalid input is provided. 
-- Utilized CSS selectors to locate elements based on their attributes, enabling efficient interaction with the web elements. 
-- Managed the browser session, including navigating to the URL and closing the browser window after tests. 
-- Built using **Selenium Webdriver, Java**.
-- 🔗 **[Project Link](https://github.com/LikhithaMachavarapu11/Tip-Calculator-Test)**
+# 🧮 2. Tip Calculator Page Test
+
+# Description:
+Created an automation script for a Tip Calculator website that validates the accuracy of tip and total calculations.
+Handled both valid and invalid inputs, verified alert messages, and ensured consistent calculation results under different scenarios.
+This project strengthens concepts of input validation, web element handling, and end-to-end automation.
+
+- **Tech Stack:** Java · Selenium WebDriver · IntelliJ IDEA · ChromeDriver
+- **Key Skills:** Input Validation · Functional Testing · XPath & CSS Selectors
 
 ---
 
-##  🌐 Wikipedia Search Test (Automation Project)
+# 🌐 3. Wikipedia Search Test
 
-- In this project, I automated a search functionality on a Wikipedia-like platform. Here are the key highlights: 
--	Developed a script to automate the process of entering a search query ("HTML") and initiating the search. 
--	Implemented a mechanism to wait until the search results are fully loaded, ensuring accurate results. 
--	The script is designed to count the number of search results and print the count, providing a quick overview of the search effectiveness. 
--	At the end of the process, the script automatically closes the browser, ensuring clean execution. 
--	This project demonstrated my ability to automate web interactions and handle dynamic content using Selenium WebDriver. 
+# Description:
+Developed an automated test for Wikipedia’s search feature using Selenium WebDriver and Java.
+The script enters keywords like “HTML,” verifies that search results are displayed, and counts the total results shown.
+It demonstrates working with dynamic elements, waits, and live website testing.
 
-- Built using **Selenium Webdriver, Java**.
-- 🔗 **[Project Link](https://github.com/LikhithaMachavarapu11/Wikipedia-Search-Test)**
+- **Tech Stack:** Java · Selenium WebDriver · IntelliJ IDEA · ChromeDriver
+- **Key Skills:** Dynamic Web Elements · Explicit Waits · Real-time Testing
 
 ---
+
 
 ## 📬 Connect with Me:
 
