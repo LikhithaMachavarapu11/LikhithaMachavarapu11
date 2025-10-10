@@ -14,7 +14,7 @@ I am currently pursuing **Industry Ready Certification in Automation Testing** f
 - **Testing:** Automation Testing with Selenium
 
 ---
-## 🏆 Projects:
+## 🏆 Mini Projects:
 
 ## 🌍 Tourism Explorer - Static Website
 - It is a user-friendly website .
@@ -29,7 +29,7 @@ I am currently pursuing **Industry Ready Certification in Automation Testing** f
 
 ---
 
-# Projects
+## 🏆 Major Projects (Automation projects):
 
 # 💳 1. Cash Withdrawal Page Test
 
