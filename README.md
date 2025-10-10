@@ -24,7 +24,7 @@ I am currently pursuing **Industry Ready Certification in Automation Testing** f
 
 ## 🌍 Tourism Explorer - Responsive Website
 - Get the **Tourism** in one place! No need to browse multiple sites.
-- Built using **Bootstrap, CSS Flexbox**.
+- Built using **Bootstrap, Flexbox**.
 - 🔗 **[Project Link](https://github.com/LikhithaMachavarapu11/Responsive-Website.git)**
 
 ---
