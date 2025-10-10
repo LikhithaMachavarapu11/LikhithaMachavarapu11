@@ -31,10 +31,10 @@ I am currently pursuing **Industry Ready Certification in Automation Testing** f
 
 ##  Cash Withdrawal Page Test
 - In this project, I automated a withdrawal functionality on a cash withdrawal-like platform. Here are the key highlights: 
-●	The script initiates a WebDriver instance and navigates to the application's URL. It then locates the username element and verifies it against the expected username, 'Sarah Williams'. 
-●	The script also verifies the initial balance amount displayed on the page against the expected balance of 2000. 
-●	The automation process includes locating all four denomination buttons and performing two clicks on each button, followed by verification of the balance amount after each click. 
-●	The script concludes by closing the browser window. The project demonstrated proficiency in using Selenium WebDriver for web application testing and verification of dynamic data. 
+- ●	The script initiates a WebDriver instance and navigates to the application's URL. It then locates the username element and verifies it against the expected username, 'Sarah Williams'. 
+- ●	The script also verifies the initial balance amount displayed on the page against the expected balance of 2000. 
+- ●	The automation process includes locating all four denomination buttons and performing two clicks on each button, followed by verification of the balance amount after each click. 
+- ●	The script concludes by closing the browser window. The project demonstrated proficiency in using Selenium WebDriver for web application testing and verification of dynamic data. 
 - Built using **Selenium Webdriver, Java**.
 - 🔗 **[Project Link](https://github.com/LikhithaMachavarapu11/Cash-Withdrawal-Page-Test)**
 
