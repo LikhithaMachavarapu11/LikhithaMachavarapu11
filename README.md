@@ -1,10 +1,10 @@
 # 👋 Hi, I'm **Likhitha Machavarapu**
 
 ## 📌 About Me
-Hi! I'm **Likhitha Machavarapu**, a passionate **QA Automation Tester** and **Computer Science Engineering graduate** from Sri Mittapalli Institute Of Technology for Women.
-I am currently pursuing **Industry Ready Certification in Automation Testing** from **Nxtwave Disruptive Technologies**, where I'm getting hands-on experience in testing real-time web applications using **Selenium WebDriver and Java**.
+Hi! I'm **Likhitha Machavarapu**, a passionate **QA Automation Tester** and **Computer Science Engineering graduate** from Sri Mittapalli Institute Of Technology for Women. I am currently pursuing **Industry Ready Certification in Automation Testing** from **Nxtwave Disruptive Technologies**, where I'm getting hands-on experience in testing real-time web applications using **Selenium WebDriver and Java**.
 
 ---
+
 ## 🚀 Skills & Interests:
 
 - **💻 Programming Languages:** HTML, CSS, flexbox (basic knowledge)  
@@ -14,17 +14,18 @@ I am currently pursuing **Industry Ready Certification in Automation Testing** f
 - **Testing:** Automation Testing with Selenium
 
 ---
-## 🏆 Mini Projects (🌍 Tourism Website ):
+
+## 🏆 Mini Projects (Tourism Website):
 
 # 1. Static Website
 - It is a user-friendly website .
 - Features include **plan trips, explore destinations and book tours**, and more.
-- Built using **HTML, CSS (frontend)**.
+-  **Tech Stack:** HTML, CSS
 - 🔗 **[Project Link](https://github.com/LikhithaMachavarapu11/Static-Website.git)**
 
 # 2. Responsive Website
 - Get the **Tourism** in one place! No need to browse multiple sites.
-- Built using **Bootstrap, Flexbox**.
+- **Tech Stack:** Bootstrap, Flexbox
 - 🔗 **[Project Link](https://github.com/LikhithaMachavarapu11/Responsive-Website.git)**
 
 ---
@@ -38,7 +39,7 @@ Automated the testing of a Cash Withdrawal web application using Selenium WebDri
 Validated username display, checked initial balance, and performed multiple denomination withdrawals to verify accurate balance updates.
 The project ensures smooth transaction flow and error-free automation from start to finish.
 
-- **Tech Stack:** Java · Selenium WebDriver · IntelliJ IDEA · ChromeDriver
+- **Tech Stack:** Java , Selenium WebDriver , IntelliJ IDEA , ChromeDriver
 - 🔗 **[Project Link](https://github.com/LikhithaMachavarapu11/Cash-Withdrawal-Page-Test)**
 
 
